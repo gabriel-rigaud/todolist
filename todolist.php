@@ -26,7 +26,7 @@ if(!isset($_SESSION['login']))
 </header>
 <body>
 
-<h1 style="color: white">Todo List</h1>
+<h1>Todo List</h1>
 
 <form>
     <input type="text" class="todo-input" />
